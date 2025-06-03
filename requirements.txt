@@ -1,0 +1,15 @@
+# 自动求职信息填充工具 - 依赖包列表
+# 使用命令安装: pip install -r requirements.txt
+
+# 核心依赖
+selenium>=4.0.0
+
+# 可选依赖 (如果使用 Playwright 替代 Selenium)
+# playwright>=1.20.0
+
+# 其他工具依赖
+configparser  # Python 3.9 内置，无需安装
+
+# 开发依赖 (可选)
+# requests>=2.25.0
+# beautifulsoup4>=4.9.0
