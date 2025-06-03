@@ -244,8 +244,8 @@ expected_location =
 
 如有问题或建议，请通过以下方式联系：
 
-- 📧 Email: your-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/job-application-filler/issues)
+- 📧 Email: 1292593513@qq.com
+- 🐛 Issues: [GitHub Issues](https://github.com/chenluoli-hit/job-application-filler/issues)
 
 ---
 
